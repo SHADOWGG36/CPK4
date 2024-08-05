@@ -165,7 +165,7 @@ if __name__ == "__main__":
             console.print("[bold cyan](19): Unlock Smoke ~ 2K[/bold cyan]")
             console.print("[bold cyan](20): Change Race Wins ~ 1K[/bold cyan]")
             console.print("[bold cyan](21): Change Race Loses ~ 1K[/bold cyan]")
-            console.print("[bold cyan](22): Clone Account ~ 5K[/bold cyan]")
+            #console.print("[bold cyan](22): Clone Account ~ 5K[/bold cyan]")
             console.print("[bold cyan](0) : Exit[/bold cyan]", end="\n\n")
             service = IntPrompt.ask(f"[bold][?] Select a Service [red][1-{choices[-1]} or 0][/red][/bold]", choices=choices, show_choices=False)
             if service == 0: # Exit
