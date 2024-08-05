@@ -322,7 +322,7 @@ if __name__ == "__main__":
                 if status == 0:
                     console.print("[bold green]SUCCESSFUL.[/bold green]")
                     console.print("==================================")
-                    console.print(f"[bold red]! INFO[/bold red]: In order to tweak this account with CPMNuker")
+                    console.print(f"[bold red]! INFO[/bold red]: In order to tweak this account with LQN97")
                     console.print("you most sign-in to the game using this account.")
                     sleep(2)
                     continue
